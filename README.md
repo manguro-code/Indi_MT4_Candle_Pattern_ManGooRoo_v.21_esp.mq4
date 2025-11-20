@@ -73,10 +73,5 @@ Si el indicador le ha sido útil, puede apoyar al desarrollador:
 - **ETH**: `0x1b31a9a4ef160E52Ea57cAc63A60214CC5CF511d`
 - **Email**: koare@hotmail.co.uk
 
-## 📞 Soporte y Contacto
-
-Para reportar bugs, sugerir características o obtener soporte:
-- Crear un **Issue** en GitHub
-- Contactar por email: koare@hotmail.co.uk
 
 - <img width="1366" height="819" alt="XAUUSDM1esp" src="https://github.com/user-attachments/assets/10478a3c-9a02-4c63-829c-f1a30aa65008" />
